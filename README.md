@@ -1,5 +1,7 @@
-## PHP8 Total
+## PHP8 Total - Aula 1
 
-Curso Básico de PHP, incluindo os recursos mais modernos da linguagem.
+Sejam muito bem vindos à nossa aula inaugural do Curso básico de PHP 8!
 
-- Selecione a aula desejada na caixa de seleção "Branch", ou através do _link_ abaixo.
+### Conteúdo desta aula -
+
+
