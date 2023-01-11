@@ -1,9 +1,3 @@
-<!-- <?php
-    echo "Olá mundo!";
-?> -->
-
-<!-- <?= "Salve galera!" ?> -->
-
 <?php
     $ano = date('Y');
 ?>
