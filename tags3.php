@@ -1,1 +1,3 @@
-<?= "Salve galera!" ?>
+<!-- <?= "Salve galera!" ?> -->
+
+<?php echo "Salve galera!!!" ?>
