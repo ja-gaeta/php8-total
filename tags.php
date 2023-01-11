@@ -4,7 +4,7 @@
 
 <!-- <?= "Salve galera!" ?> -->
 
-<!-- <?php
+<?php
     $ano = date('Y');
 ?>
 
@@ -19,4 +19,4 @@
 <body>
     <p>Estamos em <?php echo $ano ?>.</p>
 </body>
-</html> -->
+</html>
