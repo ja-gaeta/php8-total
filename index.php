@@ -1,5 +1,16 @@
 <?php
-    $data = date('Y');
+    $anoInicial = '2023';
+    $anoAtual = date('Y');
+    $copyright = '';
+    $aula = 'Aula 2: Variáveis & Constantes';
+    define('TITULO', 'PHP TOTAL');
+    // const TITULO = 'PHP';
+
+    if ($anoInicial == $anoAtual) {
+        $copyright = $anoInicial;
+    } else {
+        $copyright = "$anoInicial - $anoAtual";
+    }
 ?>
 
 <!DOCTYPE html>
@@ -13,8 +24,9 @@
 </head>
 <body>
     <div class="container text-center mt-3">
-        <h1 class="display-3">PHP Total</h1>
-        <p class="lead">Copyright &copy;<?php echo $data ?> by J.A. Gaeta Mendes</p>
+        <h1 class="display-3"><?php echo TITULO ?></h1>
+        <h2><?php echo $aula ?></h2>
+        <hr>
+        <p class="lead">Copyright &copy;<?php echo $copyright ?> by J.A. Gaeta Mendes</p>
     </div>
 </body>
-</html>
