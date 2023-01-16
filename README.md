@@ -6,3 +6,4 @@ Curso Básico de PHP, incluindo os recursos mais modernos da linguagem.
 
 - [Aula 1 - Ajustando o Ambiente](https://github.com/ja-gaeta/php8-total/tree/aula-001)
 - [Aula 2 - Variáveis & Constantes](https://github.com/ja-gaeta/php8-total/tree/aula-002)
+- [Aula 3 - Tipos de Dados](https://github.com/ja-gaeta/php8-total/tree/aula-003)
