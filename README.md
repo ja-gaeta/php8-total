@@ -1,16 +1,17 @@
-## PHP8 Total - Aula 2
+## PHP8 Total - Aula 3
 
-### Conteúdo desta aula -
+### Conteúdo desta aula - Tipos de Dados
 
-1. Comentários em PHP
+1. Introdução
 
-2. Variáveis
+- Extensão PHP Intelephense.
 
-   - Regras para nomear variáveis
-   - Atribuição por valor (padrão) --> `$var`
-   - Atribuição por referência --> `&$var`
+2. Tipos de Dados
 
-3. Constantes
-
-   - Função `define()` --> tempo de execução
-   - Palavra reservada `const` --> tempo de compilação
+- Booleanos --> bool
+- Inteiros --> int
+- Decimais --> float
+- Cadeias de caracteres --> string
+- Listas --> array
+- Nulo --> null
+- Outros tipos avançados

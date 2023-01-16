@@ -2,8 +2,8 @@
     $anoInicial = '2023';
     $anoAtual = date('Y');
     $copyright = '';
-    $aula = 'Aula 2: Variáveis & Constantes';
-    define('TITULO', 'PHP TOTAL');
+    $aula = 'Aula 3: Tipos e Conversão de Tipos';
+    define('TITULO', 'PHP Total');
     // const TITULO = 'PHP';
 
     if ($anoInicial == $anoAtual) {
