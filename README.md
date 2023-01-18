@@ -1,23 +1,10 @@
-## PHP8 Total - Aula 3
+## PHP8 Total - Aula 4
 
-### Conteúdo desta aula - Tipos de Dados e Conversões
+### Conteúdo desta aula - Tipo Booleano (bool)
 
-1. Introdução
-
-- Extensão PHP Intelephense.
-
-2. Tipos de Dados
-
-- Booleanos → bool
-- Inteiros → int
-- Decimais → float
-- Cadeias de caracteres → string
-- Listas → array
-- Nulo → null
-- Outros tipos avançados
-
-3. Conversão automática de tipos
-
-- Manipulação de tipos
-- Conversão de tipos
-- Tipos estritos e coerção de valores
+- Escape de caracteres especiais
+- Documentação oficial do PHP
+- Literais `true` e `false`
+- Valores booleanos: `true` 1 e `false` 0
+- Modificador `bool` ou `boolean`
+- Estrutura de controle `if... elseif... else...`

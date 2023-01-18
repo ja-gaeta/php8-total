@@ -2,9 +2,8 @@
     $anoInicial = '2023';
     $anoAtual = date('Y');
     $copyright = '';
-    $aula = 'Aula 3: Tipos e Conversão de Tipos';
+    $aula = 'Aula 4: Tipo bool';
     define('TITULO', 'PHP Total');
-    // const TITULO = 'PHP';
 
     if ($anoInicial == $anoAtual) {
         $copyright = $anoInicial;
@@ -22,7 +21,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <title>Vovotoqueiro-DEV</title>
 </head>
-<body>
+<body class="text-bg-dark">
     <div class="container text-center mt-3">
         <h1 class="display-3"><?php echo TITULO ?></h1>
         <h2><?php echo $aula ?></h2>
