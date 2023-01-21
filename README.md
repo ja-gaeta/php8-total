@@ -8,3 +8,4 @@ Curso Básico de PHP, incluindo os recursos mais modernos da linguagem.
 - [Aula 2 - Variáveis & Constantes](https://github.com/ja-gaeta/php8-total/tree/aula-002)
 - [Aula 3 - Tipos de Dados](https://github.com/ja-gaeta/php8-total/tree/aula-003)
 - [Aula 4 - Tipo Booleano (bool)](https://github.com/ja-gaeta/php8-total/tree/aula-004)
+- [Aula 5 - Tipo Inteiro (int)](https://github.com/ja-gaeta/php8-total/tree/aula-005)
