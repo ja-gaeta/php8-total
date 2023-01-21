@@ -2,7 +2,7 @@
     $anoInicial = '2023';
     $anoAtual = date('Y');
     $copyright = '';
-    $aula = 'Aula 4: Tipo bool';
+    $aula = 'Aula 5: Tipo Inteiro (int)';
     define('TITULO', 'PHP Total');
 
     if ($anoInicial == $anoAtual) {
@@ -24,7 +24,7 @@
 <body class="text-bg-dark">
     <div class="container text-center mt-3">
         <h1 class="display-3"><?php echo TITULO ?></h1>
-        <h2><?php echo $aula ?></h2>
+        <h2><?= $aula ?></h2>
         <hr>
         <p class="lead">Copyright &copy;<?php echo $copyright ?> by J.A. Gaeta Mendes</p>
     </div>
