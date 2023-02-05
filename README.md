@@ -1,11 +1,9 @@
-## PHP8 Total - Aula 5
+## PHP8 Total - Aula 6
 
-### Conteúdo desta aula - Tipo Inteiro (int)
+### Conteúdo desta aula - Tipo Ponto Flutuante (float)
 
-- Sintaxe simplificada
-- Literais `int`
-- Limites
-- Decimais
-- Octais
-- Hexadecimais
-- Binários
+- Literais `float`
+- Precisão
+- Dizimas binárias
+- Operações monetárias com inteiros
+- Matemática de precisão arbitrária
