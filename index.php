@@ -2,7 +2,7 @@
     $anoInicial = '2023';
     $anoAtual = date('Y');
     $copyright = '';
-    $aula = 'Aula 6: Tipo Ponto Flutuante (float)';
+    $aula = 'Aula 7: Arrays';
     define('TITULO', 'PHP Total');
 
     if ($anoInicial == $anoAtual) {
