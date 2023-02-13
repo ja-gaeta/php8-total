@@ -10,3 +10,4 @@ Curso Básico de PHP, incluindo os recursos mais modernos da linguagem.
 - [Aula 4 - Tipo Booleano (bool)](https://github.com/ja-gaeta/php8-total/tree/aula-004)
 - [Aula 5 - Tipo Inteiro (int)](https://github.com/ja-gaeta/php8-total/tree/aula-005)
 - [Aula 6 - Tipo Ponto Flutuante (float)](https://github.com/ja-gaeta/php8-total/tree/aula-006)
+- [Aula 7 - Arrays](https://github.com/ja-gaeta/php8-total/tree/aula-007)
